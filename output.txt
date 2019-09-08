@@ -1,0 +1,5 @@
+Leg/Body is 0.5519
+Shoulder/Hip is 1.0488
+Chest/Waist is 1.2130
+Body/ Waist is 4.3089
+Wasit/Hip is 0.9188
